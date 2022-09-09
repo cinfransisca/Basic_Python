@@ -1,4 +1,4 @@
-# Capstone_Project_Module_01
+# Capstone_Project_01_Basic_Python
 
 Hello, <br>
 I'm Cindy Fransisca from Purwadhika Data Science Bootcamp. <br> 
